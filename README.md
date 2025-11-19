@@ -71,8 +71,8 @@ Desarrollador apasionado especializado en crear aplicaciones web y móviles mode
 
 <div align="center">
 
-[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=7ouzz-coder&repo=NOMBRE_REPO&theme=tokyonight&hide_border=true)](https://github.com/7ouzz-coder/Gestion-Invitados)
-[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=7ouzz-coder&repo=NOMBRE_REPO2&theme=tokyonight&hide_border=true)](https://github.com/7ouzz-coder/Minuto-Cero)
+[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=7ouzz-coder&repo=Gestion-Invitados&theme=tokyonight&hide_border=true)](https://github.com/7ouzz-coder/Gestion-Invitados)
+[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=7ouzz-coder&repo=Minuto-Cero&theme=tokyonight&hide_border=true)](https://github.com/7ouzz-coder/Minuto-Cero)
 
 </div>
 
@@ -93,7 +93,7 @@ Desarrollador apasionado especializado en crear aplicaciones web y móviles mode
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guillermo-villarp)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://https://7ouzz-coder.github.io/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://7ouzz-coder.github.io/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guillermo1858@gmail.com)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/7ouzzfps)
   
@@ -103,9 +103,9 @@ Desarrollador apasionado especializado en crear aplicaciones web y móviles mode
 
 <div align="center">
   
-  [![Visitor Count](https://profile-counter.glitch.me/7ouzz-coder/count.svg)](https://komarev.com/ghpvc/?username=7ouzz-coder&color=blueviolet&style=flat-square&label=Profile+Views)
+  ![](https://komarev.com/ghpvc/?username=7ouzz-coder&color=blueviolet&style=flat-square&label=Profile+Views)
   
-  **"Problemas finitos soluciones infinitas"** ♾️
+  **"Problemas finitos, soluciones infinitas"** ♾️
   
   ⭐️ From [7ouzz-coder](https://github.com/7ouzz-coder)
   
