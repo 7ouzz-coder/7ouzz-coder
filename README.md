@@ -103,7 +103,7 @@ Desarrollador apasionado especializado en crear aplicaciones web y móviles mode
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/7ouzz-coder/count.svg)
+  [![Visitor Count](https://profile-counter.glitch.me/7ouzz-coder/count.svg)](https://komarev.com/ghpvc/?username=7ouzz-coder&color=blueviolet&style=flat-square&label=Profile+Views)
   
   **"Problemas finitos soluciones infinitas"** ♾️
   
