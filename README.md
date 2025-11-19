@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre Mí
 
-Desarrollador apasionado especializado en crear aplicaciones web y móviles modernas. Me encanta transformar ideas en productos digitales que marquen la diferencia.
+Desarrollador especializado en crear aplicaciones web y móviles modernas (por ahora). Me encanta transformar ideas en productos digitales que marquen la diferencia.
 
 - 🔭 Actualmente trabajando en proyectos con **React** y **Flutter**
 - 🌱 Aprendiendo constantemente sobre **arquitectura de software** y **mejores prácticas**
