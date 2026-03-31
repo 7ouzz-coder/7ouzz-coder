@@ -10,7 +10,7 @@
 
 Desarrollador especializado en crear aplicaciones web y móviles modernas (por ahora). Me encanta transformar ideas en productos digitales que marquen la diferencia.
 
-- 🔭 Actualmente trabajando en proyectos con **React** y **Flutter**
+- 🔭 Actualmente trabajando en proyectos con **Node** y **Express**
 - 🌱 Aprendiendo constantemente sobre **arquitectura de software** y **mejores prácticas**
 - 💬 Pregúntame sobre **HTML5, CSS3, Bootstrap, etc**
 
