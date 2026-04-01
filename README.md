@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre Mí
 
-Desarrollador especializado en crear aplicaciones web y móviles modernas (por ahora). Me encanta transformar ideas en productos digitales que marquen la diferencia.
+Desarrollador especializado en crear aplicaciones web modernas (por ahora). Me encanta transformar ideas en productos digitales que marquen la diferencia.
 
 - 🔭 Actualmente trabajando en proyectos con **Node** y **Express**
 - 🌱 Aprendiendo constantemente sobre **arquitectura de software** y **mejores prácticas**
@@ -32,8 +32,6 @@ Desarrollador especializado en crear aplicaciones web y móviles modernas (por a
 ### Herramientas & Otros
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ## 📫 Conecta Conmigo
 
